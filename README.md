@@ -8,7 +8,7 @@ Training your own dataset using Deeplab v3 in Google Colab
 
 
 ## Results
-<img src="000001_image.png" width="50">
+<img src="000001_image.png" width="80">
 
 
 
@@ -21,4 +21,4 @@ Training your own dataset using Deeplab v3 in Google Colab
 
 
 ### Original Image
-<img src="fram000001_prediction.png" width="50%">
+<img src="000001_prediction.png" width="80%">
