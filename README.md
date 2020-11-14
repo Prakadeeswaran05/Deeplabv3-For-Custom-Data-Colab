@@ -8,7 +8,7 @@ Training your own dataset using Deeplab v3 in Google Colab
 
 
 ## Results
-<img src="000001_image.png" width="80">
+<img src="000001_image.png" width="80",height="100">
 
 
 
