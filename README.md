@@ -12,7 +12,7 @@ Training your own dataset using Deeplab v3 in Google Colab
 
 
 
-<img src="000001_image.png" width="80",height="100">
+<img src="000001_image.png" >
 
 
 
