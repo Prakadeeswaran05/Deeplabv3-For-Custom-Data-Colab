@@ -12,7 +12,7 @@ Training your own dataset using Deeplab v3 in Google Colab
 
 
 
-<img src="000001_image.png" >
+<img src="000003_image.png" >
 
 
 
@@ -25,4 +25,4 @@ Training your own dataset using Deeplab v3 in Google Colab
 
 
 ## Output
-<img src="000001_prediction.png">
+<img src="000003_prediction.png">
